@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "practiceReactiveForms"
+    }
+  },
+  "defaultProject": "practiceReactiveForms",
+  "cli": {
+    "analytics": false
+  }
 }
